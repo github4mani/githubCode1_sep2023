@@ -15,3 +15,7 @@ PULL command
 git remote add origin https://github.com/github4mani/Test-new.git
 git branch -M main
 git push -u origin main
+
+Edited adn trying to pull the report:
+
+CHECK modified or not in folder
